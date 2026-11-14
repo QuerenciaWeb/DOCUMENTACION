@@ -90,7 +90,8 @@ Control de ingreso con verificación de credenciales, indicador de seguridad de 
 
 #### Vista: Registro de Usuarios
 <p align="center">
-  <img src="docs/screenshots/02-registro.png" alt="Formulario de Registro" width="850">
+<img width="1164" height="899" alt="image" src="https://github.com/user-attachments/assets/f72cbc16-659c-4e27-92f9-9229345aa5ee" />
+
 </p>
 
 *Captura sugerida: Formulario con campos de DNI, Nombre completo, selector de Rol (Normal / Administrador), token de verificación y medidor de seguridad de contraseña.*
@@ -103,7 +104,8 @@ Vista de bienvenida al autenticarse en el sistema con información del usuario l
 
 #### Vista: Panel de Inicio (Home)
 <p align="center">
-  <img src="docs/screenshots/03-dashboard-inicio.png" alt="Dashboard Principal" width="850">
+<img width="1346" height="795" alt="image" src="https://github.com/user-attachments/assets/e8974632-2f2c-4210-8f42-3c2f0465a916" />
+
 </p>
 
 *Captura sugerida: Menú de navegación superior activo, banner de bienvenida y tarjeta de perfil del usuario con su rol.*
@@ -116,7 +118,8 @@ Panel para la administración del personal de salón, cocina y administradores.
 
 #### Vista: Listado, Búsqueda y Edición de Usuarios
 <p align="center">
-  <img src="docs/screenshots/04-gestion-usuarios.png" alt="Gestión de Usuarios" width="850">
+<img width="1242" height="941" alt="image" src="https://github.com/user-attachments/assets/26e1e6fa-46cd-48e6-a501-3a82dbd26e32" />
+
 </p>
 
 *Funcionalidades mostradas en la captura:*
@@ -133,7 +136,9 @@ Punto de venta y despacho de comandas para consumo local o entregas a domicilio.
 
 #### Vista: Creación y Toma de Nuevo Pedido
 <p align="center">
-  <img src="docs/screenshots/05-caja-nuevo-pedido.png" alt="Nuevo Pedido en Caja" width="850">
+<img width="969" height="871" alt="image" src="https://github.com/user-attachments/assets/3eb567d3-b84c-42d4-9dbe-73d949c859d3" />
+
+
 </p>
 
 *Funcionalidades mostradas en la captura:*
@@ -145,7 +150,8 @@ Punto de venta y despacho de comandas para consumo local o entregas a domicilio.
 
 #### Vista: Historial de Pedidos Activos y Modal de Modificación
 <p align="center">
-  <img src="docs/screenshots/06-caja-pedidos-lista.png" alt="Listado y Modificación de Pedidos" width="850">
+<img width="889" height="727" alt="image" src="https://github.com/user-attachments/assets/74ebe5cb-dd2c-4bdc-9442-ce4a66af24a2" />
+
 </p>
 
 *Captura sugerida: Tabla de pedidos activos con estados (Pendiente, Despachado, Pagado) y ventana modal de edición.*
@@ -158,28 +164,32 @@ Control riguroso de materias primas e insumos para evitar desabastecimientos.
 
 #### Vista: Catálogo de Productos y Niveles de Stock
 <p align="center">
-  <img src="docs/screenshots/07-inventario-productos.png" alt="Inventario de Productos" width="850">
+<img width="920" height="811" alt="image" src="https://github.com/user-attachments/assets/9459cba6-c52b-4329-a81c-6a8dadcd9b37" />
+
 </p>
 
 ---
 
 #### Vista: Gestión de Categorías de Insumos
 <p align="center">
-  <img src="docs/screenshots/08-inventario-categorias.png" alt="Categorías de Inventario" width="850">
+<img width="1006" height="723" alt="image" src="https://github.com/user-attachments/assets/6ca7118f-cba0-4bd6-a889-051cf6ea19ec" />
+
 </p>
 
 ---
 
 #### Vista: Directorio de Proveedores
 <p align="center">
-  <img src="docs/screenshots/09-inventario-proveedores.png" alt="Directorio de Proveedores" width="850">
+<img width="941" height="806" alt="image" src="https://github.com/user-attachments/assets/5c1f961a-67d8-4096-8094-c697cd5146eb" />
+
 </p>
 
 ---
 
 #### Vista: Registro de Entradas y Compras de Mercancía
 <p align="center">
-  <img src="docs/screenshots/10-inventario-entradas.png" alt="Entradas de Mercancía" width="850">
+<img width="913" height="872" alt="image" src="https://github.com/user-attachments/assets/a904a319-a97d-432e-8bf1-615b880d3490" />
+
 </p>
 
 *Funcionalidades mostradas en la captura:*
@@ -194,14 +204,16 @@ Definición de la carta del restaurante y vinculación de recetas a insumos del 
 
 #### Vista: Carta del Menú y Platos Disponibles
 <p align="center">
-  <img src="docs/screenshots/11-menu-platos.png" alt="Gestión de Platos del Menú" width="850">
+<img width="920" height="932" alt="image" src="https://github.com/user-attachments/assets/3f41ddc0-cea2-4b4b-b5fb-4d8f7c347774" />
+
 </p>
 
 ---
 
 #### Vista: Composición de Recetas e Insumos por Plato
 <p align="center">
-  <img src="docs/screenshots/12-menu-recetas.png" alt="Asociación de Insumos y Receta" width="850">
+<img width="303" height="267" alt="image" src="https://github.com/user-attachments/assets/8cc53331-e940-4b6e-b8a2-388ea90575de" />
+
 </p>
 
 *Captura sugerida: Formulario de plato con selector múltiple de insumos y porciones deducibles por venta.*
@@ -214,7 +226,8 @@ Liquidación de cuentas y generación de tickets para los pedidos finalizados.
 
 #### Vista: Emisión de Factura y Liquidación
 <p align="center">
-  <img src="docs/screenshots/13-facturacion-emitir.png" alt="Emisión de Factura" width="850">
+<img width="957" height="854" alt="image" src="https://github.com/user-attachments/assets/6b2e75a9-660a-4ccd-9e35-d37780fd5f6a" />
+
 </p>
 
 *Funcionalidades mostradas en la captura:*
@@ -228,7 +241,12 @@ Liquidación de cuentas y generación de tickets para los pedidos finalizados.
 
 #### Vista: Historial de Facturas Emitidas
 <p align="center">
-  <img src="docs/screenshots/14-facturacion-historial.png" alt="Historial de Facturación" width="850">
+<img width="918" height="533" alt="image" src="https://github.com/user-attachments/assets/ec482472-7594-4c8f-8b02-76282ab43583" />
+
+<img width="974" height="665" alt="image" src="https://github.com/user-attachments/assets/55c450a2-409c-4392-a066-faf4d31ef205" />
+
+<img width="905" height="556" alt="image" src="https://github.com/user-attachments/assets/711e4294-f3a0-4f06-986b-4eed447703cf" />
+
 </p>
 
 *Captura sugerida: Historial de facturas emitidas con fecha, cliente, método de pago, monto total y opción de reimpresión.*
@@ -241,7 +259,8 @@ Cobro electrónico para clientes con tarjetas débito/crédito, PSE y transferen
 
 #### Vista: Integración y Checkout de Pagos
 <p align="center">
-  <img src="docs/screenshots/15-pasarela-wompi.png" alt="Pasarela Wompi" width="850">
+<img width="1140" height="657" alt="image" src="https://github.com/user-attachments/assets/e06a7ca9-e16a-4d22-93f7-453712031ff4" />
+
 </p>
 
 ---
@@ -252,7 +271,11 @@ Ajustes del restaurante, preferencias visuales inclusivas y analítica.
 
 #### Vista: Personalización y Accesibilidad (Modo Claro / Oscuro y Daltonismo)
 <p align="center">
-  <img src="docs/screenshots/16-configuracion-apariencia.png" alt="Ajustes de Accesibilidad y Tema" width="850">
+<img width="893" height="395" alt="image" src="https://github.com/user-attachments/assets/0b3e118d-f200-49a6-845c-3a1e1363e0fc" />
+
+<img width="848" height="941" alt="image" src="https://github.com/user-attachments/assets/7c8c3425-2bf5-489a-80df-b04b25a6f1eb" />
+
+
 </p>
 
 *Opciones disponibles:*
@@ -264,7 +287,7 @@ Ajustes del restaurante, preferencias visuales inclusivas y analítica.
 
 #### Vista: Datos de la Empresa y Parámetros Operativos
 <p align="center">
-  <img src="docs/screenshots/17-configuracion-negocio.png" alt="Información del Restaurante" width="850">
+<img width="835" height="658" alt="image" src="https://github.com/user-attachments/assets/9265328b-033c-412c-b09a-22fbe733fa49" />
 </p>
 
 *Captura sugerida: Configuración de Nombre comercial, NIT, Teléfono, Dirección base para envíos y Tarifa de flete.*
@@ -273,7 +296,10 @@ Ajustes del restaurante, preferencias visuales inclusivas y analítica.
 
 #### Vista: Métricas de Rendimiento y Reportes Consolidados
 <p align="center">
-  <img src="docs/screenshots/18-configuracion-reportes.png" alt="Métricas y Reportes" width="850">
+
+
+<img width="771" height="925" alt="image" src="https://github.com/user-attachments/assets/b1873e3e-9040-4020-8dc0-6ef369bf7644" />
+
 </p>
 
 ---
