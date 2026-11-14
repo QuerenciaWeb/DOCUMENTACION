@@ -84,7 +84,8 @@ Control de ingreso con verificación de credenciales, indicador de seguridad de 
 
 #### Vista: Inicio de Sesión (Login)
 <p align="center">
-<img width="1416" height="880" alt="image" src="https://github.com/user-attachments/assets/27c0164c-b415-471a-a2d9-ae79305d918a" />
+<img width="1156" height="666" alt="image" src="https://github.com/user-attachments/assets/d1b7ff88-ece4-4757-b8eb-8929ccaf69e8" />
+
 </p>
 
 *Captura sugerida: Formulario con campos de correo y contraseña, botón de visibilidad de contraseña y enlace a registro.*
@@ -93,7 +94,8 @@ Control de ingreso con verificación de credenciales, indicador de seguridad de 
 
 #### Vista: Registro de Usuarios
 <p align="center">
-<img width="1164" height="899" alt="image" src="https://github.com/user-attachments/assets/f72cbc16-659c-4e27-92f9-9229345aa5ee" />
+<img width="1199" height="942" alt="image" src="https://github.com/user-attachments/assets/c883790a-23d3-4c1c-a5ba-019867e23eda" />
+
 
 </p>
 
