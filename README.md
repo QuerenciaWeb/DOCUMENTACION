@@ -1,7 +1,8 @@
 # 🍽️ La Querencia - Sistema Integral de Gestión para Restaurantes
 
 <p align="center">
-  <img src="frontend/src/assets/hero.png" alt="Logo / Banner La Querencia" width="700"/>
+<img width="1024" height="1024" alt="92898038" src="https://github.com/user-attachments/assets/a1203d13-cb87-41dc-8c25-d0314b54ee31" />
+
 </p>
 
 <p align="center">
