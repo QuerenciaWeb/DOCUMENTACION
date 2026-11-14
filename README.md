@@ -81,7 +81,7 @@ Control de ingreso con verificación de credenciales, indicador de seguridad de 
 
 #### Vista: Inicio de Sesión (Login)
 <p align="center">
-  <img src="docs/screenshots/01-login.png" alt="Pantalla de Inicio de Sesión" width="850">
+<img width="1416" height="880" alt="image" src="https://github.com/user-attachments/assets/27c0164c-b415-471a-a2d9-ae79305d918a" />
 </p>
 
 *Captura sugerida: Formulario con campos de correo y contraseña, botón de visibilidad de contraseña y enlace a registro.*
