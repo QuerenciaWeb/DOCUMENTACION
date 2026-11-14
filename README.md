@@ -1,7 +1,8 @@
 # 🍽️ La Querencia - Sistema Integral de Gestión para Restaurantes
 
 <p align="center">
-<img width="831" height="591" alt="image" src="https://github.com/user-attachments/assets/233cccfd-ad66-409a-a64a-af7e42466283" />
+<img width="831" height="591" alt="logo_morado_silueta" src="https://github.com/user-attachments/assets/4dd56602-4f35-4825-b945-c8febf9f7991" />
+
 
 
 </p>
