@@ -74,7 +74,6 @@ Cuenta además con una interfaz moderna y accesible que incluye soporte nativo p
 
 ## 📸 Galería de Módulos y Capturas de Pantalla
 
-> **Nota:** Guarda tus imágenes en `docs/screenshots/` con los nombres de archivo indicados en cada sección.
 
 ---
 
